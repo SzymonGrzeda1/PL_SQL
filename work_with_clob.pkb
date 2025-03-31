@@ -1,3 +1,9 @@
+--https://docs.oracle.com/en/database/oracle/oracle-database/19/arpls/DBMS_LOB.html#GUID-F3AA0160-6282-487C-A08A-C0FA22C67F4E
+--https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/plsql-subprograms.html#GUID-18E72176-145F-4E12-95F1-03F84B3D5DC6
+--https://docs.oracle.com/en/database/oracle/oracle-database/19/adlob/operations-specific-to-persistent-and-temporary-LOBs.html#GUID-7B3D15D3-A182-4ED1-A265-8EE15E793C46
+--https://docs.oracle.com/cd/A91034_01/DOC/appdev.901/a88879/adl09be4.htm
+--https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/EMPTY_BLOB-EMPTY_CLOB.html
+
 create or replace package body apex_mail_pkg
 as
 
