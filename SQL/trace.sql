@@ -1,0 +1,2 @@
+grant SELECT_CATALOG_ROLE to hr;
+grant SELECT ANY DICTIONARY to hr;
